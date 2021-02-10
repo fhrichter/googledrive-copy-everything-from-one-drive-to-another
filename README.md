@@ -1,5 +1,5 @@
 # Copy All Google Drive Code
-Project to copy a google drive to google team drive
+Project to copy a all folders and files from a google drive to a google shared drive
 
 This class enables the user to copy over all folders and files from a google drive location to another. Normally google drive does not all allow the user to copy folders,
 instead the user has to manually recreate the folder structure. This script automates that task. 
